@@ -3,8 +3,8 @@ import requests
 import time
 
 # === Konfigurasi Bot ===
-BOT_TOKEN = 'ISI_TOKEN_BOT_TELEGRAM_MU'
-CHAT_ID = 'ISI_CHAT_ID_KAMU'
+BOT_TOKEN = '8095505771:AAE91unWUpkV9GW3AC7tkqVEVwyDd5fOy-w'
+CHAT_ID = '1407624802'
 
 # === Pengaturan User ===
 USER_PILIHAN = {
