@@ -1,10 +1,10 @@
 
 import requests
 import time
-
+import os
 # === Konfigurasi Bot ===
-BOT_TOKEN = '8095505771:AAE91unWUpkV9GW3AC7tkqVEVwyDd5fOy-w'
-CHAT_ID = '1407624802'
+BOT_TOKEN = os.getenv('8095505771:AAE91unWUpkV9GW3AC7tkqVEVwyDd5fOy-w')
+CHAT_ID = os.getenv('1407624802')
 
 # === Pengaturan User ===
 USER_PILIHAN = {
